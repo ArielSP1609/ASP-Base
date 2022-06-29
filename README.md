@@ -1,5 +1,4 @@
-# Bot Whatsapp
-## Beta Multi Device 
+# Ariel SP Bot WhatsApp
 
 <p align="center">
 <img src="https://telegra.ph/file/05dbd461f1d3d1447f350.jpg" alt="Ariel Sandy Permana" width="200"/>
