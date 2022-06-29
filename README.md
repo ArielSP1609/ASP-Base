@@ -7,7 +7,7 @@
 <p align="center">
     <a href="https://ArielSP1609.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=+++Ariel+Sandy+Permana"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=300&lines=Ariel+Sandy+Permana"
             alt="Enjoy Use Bot"
         />
     </a>
