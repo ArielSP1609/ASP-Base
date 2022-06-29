@@ -7,7 +7,7 @@
 <p align="center">
     <a href="https://ArielSP1609.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Ariel+Sandy+Permana"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=+++Ariel+Sandy+Permana"
             alt="Enjoy Use Bot"
         />
     </a>
@@ -17,7 +17,7 @@
 
 Click the deploy icon below !
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ArielSP1609/ASP-Base)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ArielSP1609/MyBot)
 
 ```bash
  > heroku/nodejs
@@ -34,16 +34,16 @@ Click the deploy icon below !
 > pkg install ffmpeg
 > pkg install yarn
 > termux-setup-storage
-> git clone https://github.com/ArielSP1609/ASP-Base
-> cd ASP-Base
+> git clone https://github.com/ArielSP1609/MyBot
+> cd MyBot
 > yarn
 > npm start
 ```
 
 ## RDP/VPS USER
 ```bash 
-> git clone https://github.com/ArielSP1609/ASP-Base.git
-> cd ASP-Base
+> git clone https://github.com/ArielSP1609/MyBot.git
+> cd MyBot
 > npm install
 > npm start
 ```
